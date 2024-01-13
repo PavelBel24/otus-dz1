@@ -24,7 +24,7 @@ config.vm.provision "shell", inline: <<-SHELL
 
 Полный листинг Vagrantfile см. [здесь](Vagrantfile)
 
-ВЫдержки из протокола выполнения команд
+Выдержки из протокола выполнения команд
 
 ```
 admuser@vm1:~/otus-dz1$ vagrant up
